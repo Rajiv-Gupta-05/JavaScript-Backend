@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A basic backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajiv-Gupta-05/Backend.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Rajiv Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajiv-Gupta-05/Backend/issues"
+  },
+  "homepage": "https://github.com/Rajiv-Gupta-05/Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
